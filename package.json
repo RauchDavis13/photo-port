@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lernantino.github.io/photo-port",
+  "homepage": "http://RauchDavis13.github.io/photo-port",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +42,6 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0",
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
